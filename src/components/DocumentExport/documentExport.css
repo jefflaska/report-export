@@ -1,0 +1,27 @@
+.document-type-select
+{
+    height:250px;
+    overflow-y: scroll;
+}
+
+.list-group-item.active {
+    background-color: gray;
+    border-color: #dee2e6;  
+}
+
+.form-check-input:checked{
+    background-color: gray;
+    border-color: gray;
+}
+
+.document-type-select-header, .date-select-header {
+    font-size: 16px;
+}
+
+.document-type-select-container {
+    margin-top: 25px;
+}
+
+.notes-toggle {
+    margin-top: 25px;
+}
